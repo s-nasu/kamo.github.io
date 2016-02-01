@@ -3,7 +3,13 @@
   
   <url>
     <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-02-01T17:48:14+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/2016-02-01/</loc>
+    <lastmod>2016-02-01T17:48:14+09:00</lastmod>
   </url>
   
 </urlset>
